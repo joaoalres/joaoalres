@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm João Al–res!</h1>
+<h1 align="center"> Hi there 👋, I'm João!</h1>
 <h3 align="center"> Web developer focused on automation & AI – building practical solutions </h3>
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> </p>
 <p align="center"> 🌱 I'm working with <strong>TypeScript, JavaScript, React and Python</strong> </p>
